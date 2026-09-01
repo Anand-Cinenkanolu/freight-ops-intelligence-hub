@@ -66,7 +66,7 @@ This project builds an end-to-end analytics platform that answers exactly those 
 <!-- HOW TO ADD: Upload page4_trends.png to /screenshots folder -->
 ![Operational Trends](screenshots/page4_trends.png)
 
-> **Live Report:** [Click here to view the interactive Power BI dashboard](#)  
+> **Live Report:** [Click here to view the interactive Power BI dashboard](https://app.powerbi.com/reportEmbed?reportId=9c6d0be5-e516-48a9-b0f1-44f58d1829ac&autoAuth=true&ctid=1c2377c9-492c-4ce5-a2ae-c52f6d2e29df)  
 > <!-- HOW TO ADD LINK: Replace the # above with your published Power BI report URL -->
 > <!-- To get the URL: In Power BI Service, open your report, click File > Embed report > Website or portal, copy the link -->
 
