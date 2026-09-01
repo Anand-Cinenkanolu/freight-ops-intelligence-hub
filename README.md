@@ -50,23 +50,33 @@ This project builds an end-to-end analytics platform that answers exactly those 
 
 ## Dashboard Preview
 
+### Page 0: Landing Page
+<!-- HOW TO ADD: Upload your screenshot to the /screenshots folder in this repo, then the image will display automatically -->
+![Executive Summary](https://github.com/Anand-Cinenkanolu/freight-ops-intelligence-hub/blob/main/New%20folder/Dashboard/Freight_Ops_Intelligence_Hub-images-0.jpg)
+
 ### Page 1: Executive Summary
 <!-- HOW TO ADD: Upload your screenshot to the /screenshots folder in this repo, then the image will display automatically -->
-![Executive Summary](screenshots/page1_executive.png)
+![Executive Summary](https://github.com/Anand-Cinenkanolu/freight-ops-intelligence-hub/blob/main/New%20folder/Dashboard/Freight_Ops_Intelligence_Hub-images-1.jpg)
 
 ### Page 2: Carrier Performance Scorecard
 <!-- HOW TO ADD: Same as above - upload page2_carrier.png to /screenshots folder -->
-![Carrier Scorecard](screenshots/page2_carrier.png)
+![Carrier Scorecard](https://github.com/Anand-Cinenkanolu/freight-ops-intelligence-hub/blob/main/New%20folder/Dashboard/Freight_Ops_Intelligence_Hub-images-2.jpg)
 
 ### Page 3: Freight Lane Performance Analysis
 <!-- HOW TO ADD: Upload page3_lane.png to /screenshots folder -->
-![Lane Performance](screenshots/page3_lane.png)
+![Lane Performance](https://github.com/Anand-Cinenkanolu/freight-ops-intelligence-hub/blob/main/New%20folder/Dashboard/Freight_Ops_Intelligence_Hub-images-3.jpg)
 
 ### Page 4: 2024 Freight Operational Trends
 <!-- HOW TO ADD: Upload page4_trends.png to /screenshots folder -->
-![Operational Trends](screenshots/page4_trends.png)
+![Operational Trends](https://github.com/Anand-Cinenkanolu/freight-ops-intelligence-hub/blob/main/New%20folder/Dashboard/Freight_Ops_Intelligence_Hub-images-4.jpg)
 
-> **Live Report:** [Click here to view the interactive Power BI dashboard](https://app.powerbi.com/reportEmbed?reportId=9c6d0be5-e516-48a9-b0f1-44f58d1829ac&autoAuth=true&ctid=1c2377c9-492c-4ce5-a2ae-c52f6d2e29df)  
+> **Report PDF:** [Click here to view the Power BI dashboard](https://github.com/Anand-Cinenkanolu/freight-ops-intelligence-hub/blob/main/New%20folder/Dashboard/Freight_Ops_Intelligence_Hub.pdf)  
+> <!-- HOW TO ADD LINK: Replace the # above with your published Power BI report URL -->
+> <!-- To get the URL: In Power BI Service, open your report, click File > Embed report > Website or portal, copy the link -->
+
+--
+
+<!-- > **Live Report:** [Click here to view the interactive Power BI dashboard](https://app.powerbi.com/reportEmbed?reportId=9c6d0be5-e516-48a9-b0f1-44f58d1829ac&autoAuth=true&ctid=1c2377c9-492c-4ce5-a2ae-c52f6d2e29df)  
 > <!-- HOW TO ADD LINK: Replace the # above with your published Power BI report URL -->
 > <!-- To get the URL: In Power BI Service, open your report, click File > Embed report > Website or portal, copy the link -->
 
