@@ -52,7 +52,7 @@ This project builds an end-to-end analytics platform that answers exactly those 
 
 ### Page 0: Landing Page
 <!-- HOW TO ADD: Upload your screenshot to the /screenshots folder in this repo, then the image will display automatically -->
-![Executive Summary](https://github.com/Anand-Cinenkanolu/freight-ops-intelligence-hub/blob/main/New%20folder/Dashboard/Freight_Ops_Intelligence_Hub-images-0.jpg)
+![Landing Page](https://github.com/Anand-Cinenkanolu/freight-ops-intelligence-hub/blob/main/New%20folder/Dashboard/Freight_Ops_Intelligence_Hub-images-0.jpg)
 
 ### Page 1: Executive Summary
 <!-- HOW TO ADD: Upload your screenshot to the /screenshots folder in this repo, then the image will display automatically -->
